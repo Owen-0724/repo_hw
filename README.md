@@ -2,7 +2,7 @@
 An example of repo homework
 
 ## Team member 1
-**Hobies**
+**Hobies:**
 **Favorite Movies:**
 1. 
 2. 
